@@ -1,8 +1,8 @@
 # WebGPU Demos(2023)
 
 [This Project] Vue2+JS
- https://github.com/onekit_boss/webgpu_demo
- https://gitee.com/onekit_boss/webgpu_demo
+ https://github.com/onekit_boss/WebGPU-Step-By-Step
+ https://gitee.com/onekit_boss/WebGPU-Step-By-Step
 
 [Origin Project] Webpack+TS
 https://github.com/jack1232/WebGPU-Step-By-Step
