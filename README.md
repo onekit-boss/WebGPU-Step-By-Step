@@ -1,4 +1,8 @@
-# spritekit-web
+# WebGPU Demos(2023)
+
+[This Project] https://github.com/onekit_boss (Vue2+JS)
+
+[Origin Project] https://github.com/jack1232 (Webpack+TS)
 
 ## Project setup
 ```
